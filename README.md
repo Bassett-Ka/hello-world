@@ -1,2 +1,2 @@
 # hello-world
-This is an into repository
+This is an intro repository
